@@ -1,6 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/tabbykatz/tabbykatz/master/wave.gif" width="30px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Tabitha.+Get+Vaccinated!)](https://git.io/typing-svg)
 
-I'm Tabitha * Get Vaccinated!
+
+
 
 [![Twitter Badge](https://img.shields.io/badge/-@tabby__katz-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tabby__katz "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-tabbykatz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tabbykatz/)](https://www.linkedin.com/in/tabithaomelay/)
