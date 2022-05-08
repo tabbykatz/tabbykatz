@@ -1,5 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/tabbykatz/tabbykatz/master/wave.gif" width="30px">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi, I'm Tabitha. I love learning new things.)](https://git.io/typing-svg)
+### Hi there <img src="https://raw.githubusercontent.com/tabbykatz/tabbykatz/master/wave.gif" width="30px">  I'm Tabitha
 
 
 
