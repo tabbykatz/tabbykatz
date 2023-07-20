@@ -9,4 +9,4 @@
 
 
 
-[![Tabbykatz's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabbykatz)](https://github.com/tabbykatz/github-readme-stats)]
+[![Tabbykatz's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabbykatz)](https://github.com/tabbykatz/github-readme-stats)
